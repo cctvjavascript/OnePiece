@@ -1,0 +1,39 @@
+ 
+https://github.com/open-android/Android （android最新项目）
+http://www.apkbus.com/forum.php?mod=viewthread&tid=223155（android 性能优化）
+
+
+http://www.jianshu.com/p/a51593817825（android 6.0)
+http://mrpeak.cn/android/2016/01/11/android-performance-ui (android 布局优化）
+
+
+
+Dialog:
+http://blog.csdn.net/maosidiaoxian/article/details/37558183
+http://blog.csdn.net/fancylovejava/article/details/21617553
+
+Android Gradle语法：
+http://blog.csdn.net/maosidiaoxian/article/details/41944325
+图片保存到系统相册：
+http://blog.csdn.net/xu_fu/article/details/39158747
+
+//android性能优化之数据结构的优化：
+http://blog.csdn.net/fancylovejava/article/details/45148325
+
+
+//简书上的炫酷的头部
+http://www.jianshu.com/p/d159f0176576
+
+大公司面试试题：
+http://blog.csdn.net/huachao1001/article/details/52247268
+http://blog.csdn.net/xsf50717/article/details/48529837
+
+任务：
+自己打造一个ViewPager和Inciter 指示器！
+
+//Activty的切换效果.
+http://blog.csdn.net/huachao1001/article/details/51659963
+
+
+RecycyleView实现布局的切换：
+http://blog.csdn.net/u013718120/article/details/51965678
